@@ -2,9 +2,9 @@
 
 📚 本儲存庫整理了我準備「IPAS 物聯網應用工程師（初級檢定）」考試時的筆記與歷屆試題，包含各考試重點整理與解題心得，歡迎有需要的考生參考使用。
 
--  **[官網連結](https://www.ipas.org.tw/iota/AbilityPageContent.aspx?mnuno=657e91fb-d48c-474f-aa6a-beb8257cd1da&pgeno=d3366672-ba08-4ef8-bd02-949a92bb3851)**
+官方資源連結：https://www.ipas.org.tw/iota/AbilityPageContent.aspx?mnuno=657e91fb-d48c-474f-aa6a-beb8257cd1da&pgeno=d3366672-ba08-4ef8-bd02-949a92bb3851
 
-！建議看完以下教學影片，能補足官方影片缺少的內容，更深入理解考試內容與物聯網應用領域：
+！另外建議看完以下教學影片，能補足官方影片缺少的內容，更深入理解考試內容與物聯網應用領域：
 
 -  **[蔡宗易老師：物聯網應用與證照考科介紹](https://www.youtube.com/watch?v=CtYYvdJv-9A&list=PLNt6y6xiZPqfJuGL0noeI1qHz8XAxsob3&index=1)**  
 -  **[中科大：1130 物聯網應用課程](https://www.youtube.com/watch?v=2BFYRc8b5AU)**  
